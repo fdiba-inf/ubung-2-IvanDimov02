@@ -15,8 +15,8 @@ public class Circle {
 
         C = 2.0 * Pi * r;
         A = Pi * r * r;
-        System.out.println("Circumference: "+C );
-        System.out.println("Area: "+A);
+        System.out.println("Circumference: " + C);
+        System.out.println("Area: " + A);
     }
 
 }    
